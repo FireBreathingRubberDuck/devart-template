@@ -7,6 +7,10 @@
 ## Description
 You can write a testimonial or sort on an android app , which will get stored, pass through filters (to check for obscene text ) and them will be show on a screen or projected on a screen in the form of a wall, People's Wall . Its application can range from in restaurants with customers writing testimonials, in museums with visitors given the  opportunity to be a part of the art around them.
 
+##If anyone has any suggestions for us, do tweet or message us
+https://twitter.com/Perfect_rebel
+
+
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
