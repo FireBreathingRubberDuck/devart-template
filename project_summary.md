@@ -1,12 +1,11 @@
-# Project Title
-Insert the name of your project
+# People's Wall
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Shiva Sharma
+- Sushant Rajliwal
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+You can write a testimonial or sort on an android app , which will get stored, pass through filters (to check for obscene text ) and them will be show on a screen or projected on a screen in the form of a wall, People's Wall . Its application can range from in restaurants with customers writing testimonials, in museums with visitors given the  opportunity to be a part of the art around them.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
